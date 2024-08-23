@@ -1,0 +1,23 @@
+.bounding-box {
+  position: absolute;
+  box-shadow: 0 0 0 3px #149df2 inset;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.mybox {
+  position: absolute;
+  top: 70;
+  right: 183;
+  bottom: 318;
+  left: 164;
+  background: transparent;
+  border: 1px solid blue;
+}
+
+.containers {
+  display: flex;
+  justify-content: center;
+}
