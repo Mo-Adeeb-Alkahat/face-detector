@@ -2,7 +2,7 @@
 
 A face detector in an image using Clarifai API  
 
-![example](https://github.com/Mo-Addeeb-Alkahat/Wasef/blob/main/example.png)
+![example](https://github.com/Mo-Adeeb-Alkahat/face-detector/blob/main/example.png)
 
 ## description
 
